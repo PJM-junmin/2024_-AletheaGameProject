@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\2024_aletheagameproject\\alethea\\intermediate\\build\\win64\\unrealeditor\\inc\\alethea\\uht\\alethea.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\2024_aletheagameproject\\alethea\\intermediate\\build\\win64\\x64\\aletheaeditor\\debuggame\\engine\\sharedpch.engine.nonoptimized.cpp20.h.pch",
+        "Includes": [
+            "d:\\2024_aletheagameproject\\alethea\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\alethea\\definitions.alethea.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

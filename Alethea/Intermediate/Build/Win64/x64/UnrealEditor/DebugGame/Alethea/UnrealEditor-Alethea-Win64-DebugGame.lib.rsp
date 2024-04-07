@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Alethea-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\2024_AletheaGameProject\Alethea\Intermediate\Build\Win64\x64\AletheaEditor\DebugGame\Engine\SharedPCH.Engine.NonOptimized.Cpp20.h.obj"
+"D:\2024_AletheaGameProject\Alethea\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Alethea\Alethea.init.gen.cpp.obj"
+"D:\2024_AletheaGameProject\Alethea\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Alethea\ATGameModeBase.gen.cpp.obj"
+"D:\2024_AletheaGameProject\Alethea\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Alethea\Alethea.cpp.obj"
+"D:\2024_AletheaGameProject\Alethea\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Alethea\ATGameModeBase.cpp.obj"
+"D:\2024_AletheaGameProject\Alethea\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Alethea\Default.rc2.res"
+/OUT:"D:\2024_AletheaGameProject\Alethea\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\Alethea\UnrealEditor-Alethea-Win64-DebugGame.lib"
